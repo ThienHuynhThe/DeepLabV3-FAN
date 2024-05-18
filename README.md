@@ -5,10 +5,11 @@ These advances lead to a more precise identification of urban classes, resulting
 
 <img src="https://github.com/ThienHuynhThe/DeepLabV3-FAN/blob/main/deeplabv3%2BFAN.png" height="815px" width="770px" >
 
-We provide the source code of this work in Matlab, including:add< br / >
--- training_test_program.m: this file is used to train and test performance of deep semantic segmentation model add< br / >
--- lgraph_deeplabv3+_resnet50.mat: this contains the architecture of deep network with trained backbone Resnet50. This is used for training stage in training_test_program.m in the case of training = 1.add< br / >
--- trained_deeplabv3+_resnet50.mat: this contains the deep model that is already trained on Vaihingen using backbone Resnet50. This is just used for evaluation stage.add< br / >
+We provide the source code of this work in Matlab, including:<br>
+
+  - training_test_program.m: this file is used to train and test performance of deep semantic segmentation model<br>
+  - lgraph_deeplabv3+_resnet50.mat: this contains the architecture of deep network with trained backbone Resnet50. This is used for training stage in training_test_program.m in the case of training = 1.<br>
+  - trained_deeplabv3+_resnet50.mat: this contains the deep model that is already trained on Vaihingen using backbone Resnet50. This is just used for evaluation stage.
 
 The work of this code is currently revised for considering publication on IGRSL.
 If there is any error or need to be discussed, please email to [Thien Huynh-The](https://sites.google.com/site/thienhuynhthe/home) via thienht@kumoh.ac.kr.
