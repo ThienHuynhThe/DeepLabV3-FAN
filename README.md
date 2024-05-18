@@ -3,7 +3,7 @@ Abstract - As a cutting-edge deep encoder-decoder architecture, DeepLabV3+ has b
 As a result, our improved remote sensing segmentation model achieves significant performance gains when evaluated on a real-world data set: Global precision improves by at least $5.39\%$, mean intersection-over-union (IoU) increases by $10.97\%$, and mean boundary-F1 score (BFScore) improves by $11.3\%$.
 These advances lead to a more precise identification of urban classes, resulting in a greater precision in the segmentation task.
 
-<img src="https://github.com/ThienHuynhThe/DeepLabV3-FAN/blob/main/deeplabv3%2BFAN.png" height="1630px" width="1540px" >
+<img src="https://github.com/ThienHuynhThe/DeepLabV3-FAN/blob/main/deeplabv3%2BFAN.png" height="815px" width="770px" >
 
 The work of this code is currently revised for considering publication on IGRSL.
 If there is any error or need to be discussed, please email to [Thien Huynh-The](https://sites.google.com/site/thienhuynhthe/home) via thienht@kumoh.ac.kr.
